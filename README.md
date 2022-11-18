@@ -12,3 +12,8 @@ ui 디자인
 https://www.figma.com/file/Oc9Pq1jB2FRXgRpc9n626c/Untitled?node-id=0%3A1
 ```
 
+* 최종과제
+```
+원본 사이트 링크 : https://www.nexon.com/Home/Game
+프로토타입 링크 : https://www.figma.com/proto/sNGPYXUrJCmjVGo1CpJFnO/22.11.18?page-id=0%3A1&node-id=1%3A4&viewport=604%2C387%2C0.15&scaling=min-zoom
+```
